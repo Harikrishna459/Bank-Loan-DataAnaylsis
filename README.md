@@ -6,10 +6,10 @@
 
 ## [Data Sources](Data-Sources)
 - [Application-data.xlsx](Application-data.xlsx)
-- Correlations.xlsx
-- Outliers.xlsx
-- Uni,Bi,Multivariate analysis.xlsx
-- 
+- [Correlations.xlsx](Correlations.xlsx)
+- [Outliers.xlsx](Outliers.xlsx)
+- [Uni,Bi,Multivariate analysis.xlsx](Uni,Bi,Multivariate-analysis.xlsx)
+  
 ## [Project Overview](Project-Overview)
 When a customer applies for a loan, your company faces two risks:
 
